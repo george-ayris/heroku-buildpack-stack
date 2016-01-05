@@ -1,5 +1,7 @@
 # [Heroku Buildpack for Stack][1]
 
+Fork of the heroku-buildpack-stack to add profiling build options
+
 [Heroku buildpack][2] for [Stack][3]. Based on the excellent [heroku-buildpack-ghc][4]
 
 ### Useage
